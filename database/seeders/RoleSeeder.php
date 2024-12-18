@@ -18,7 +18,7 @@ class RoleSeeder extends Seeder
             "description"=> "Administrator role",
         ]);
         Role::create([
-            "name"=> "accountantant",
+            "name"=> "Accountant",
             "description"=> "Accountant Role",
             ]);
     }
